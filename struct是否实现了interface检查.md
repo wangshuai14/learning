@@ -1,1 +1,1 @@
-var _ ${interface{}} = (\*${struct})(nil)
+var _ ${interface} = (\*${struct})(nil)
